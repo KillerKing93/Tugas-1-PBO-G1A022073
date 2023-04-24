@@ -1,6 +1,6 @@
 # Tugas-1-PBO-G1A022073-Alif-Nurhidayat
 
-1. buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya !
+1. buatlah perbedaan functional programming dan object oriented programming dalam bahasa pemrograman pyhon, serta berikan contoh masing-masing code nya!
         Functional Programming (FP) dan Object-Oriented Programming (OOP) adalah dua paradigma pemrograman yang berbeda dalam pendekatan desain dan struktur program. 
    Berikut adalah perbedaan rinci antara keduanya:
    ====================================================================================================================================================================
@@ -46,7 +46,7 @@
 
 
 
-2. berikan apa saja contoh pengimplementasian dari oop !
+2. berikan apa saja contoh pengimplementasian dari oop!
    Berikut adalah beberapa contoh implementasi Object-Oriented Programming (OOP) pada kehidupan nyata:
    ====================================================================================================================================================================
    |->        Aplikasi Mobile           |                                                                                                                             |
