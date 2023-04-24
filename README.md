@@ -13,7 +13,7 @@ Dalam FP, data bersifat tidak dapat diubah (immutable) dan setiap operasi hanya 
 Dalam FP, fungsi dibuat tanpa bergantung pada data atau variabel di luar fungsi tersebut (side-effect free). Dalam OOP, fungsi (yang disebut metode) biasanya dibuat untuk beroperasi pada data yang dimiliki oleh objek.          
 
 ### Pewarisan
-OOP memungkinkan pewarisan (inheritance) antar kelas, di mana kelas anak dapat mengambil sifat dan metode dari kelas induk. FP tidak memiliki konsep pewarisan, tetapi dapat menggunakan konsep komposisi untuk membuat fungsi yang lebih kompleks dari fungsi sederhana.
+OOP memungkinkan pewarisan (inheritance) antar kelas, di mana kelas anak dapat mengambil sifat dan metode dari kelas induk. FP tidak memiliki konsep ini, namun, dengan menggunakan konsep komposisi, Fungsi yang lebih kompleks dapat dibuat dengan menggunakan fungsi sederhana sebagai komponen dasarnya.
 
 ### Keamanan dan kesalahan program
 Dalam FP, program cenderung lebih aman karena data bersifat immutable dan fungsi tidak memiliki efek samping yang tidak diinginkan. Di sisi lain, OOP    memungkinkan perubahan data yang tidak diinginkan dan metode yang salah dapat mempengaruhi objek lain dalam program.    
