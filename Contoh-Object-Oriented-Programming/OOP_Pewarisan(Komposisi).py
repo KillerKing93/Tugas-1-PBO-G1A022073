@@ -1,11 +1,17 @@
-class Calculator:
-    def __init__(self):
-        pass
+class Shape:
+    def __init__(self, color):
+        self.color = color
     
-    def calculate_sum(self, lst):
-        return sum(lst)
+    def draw(self):
+        pass
 
-calc = Calculator()
-numbers = [1, 2, 3, 4, 5]
-result = calc.calculate_sum(numbers)
-print(result)
+class Circle(Shape):
+    def __init__(self, color, radius):
+        super().__init__(color)
+        self.radius = radius
+    
+    def draw(self):
+        print(f"Drawing {self.color} circle with radius {self.radius}")
+
+circle = Circle("blue", 5)
+circle.draw()
