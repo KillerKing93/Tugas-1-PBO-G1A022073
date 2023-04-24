@@ -21,8 +21,8 @@
       memungkinkan perubahan data yang tidak diinginkan dan metode yang salah dapat mempengaruhi objek lain dalam program.                                        
       
        Kesimpulannya, Functional Programming dan Object Oriented Programming memiliki pendekatan yang berbeda dalam membangun program, dan masing-masing memiliki 
-   kelebihan dan kelemahan. Pilihan antara kedua paradigma tergantung pada kebutuhan program dan preferensi pribadi. Contoh masing - masing kode functional programming 
-   an object oriented progrmaming dapat dilihat pada file "ContohFunctionalProgramming.py" dan "ContohObjectOrientedProgramming.py"
+   kelebihan dan kelemahan. Pilihan antara kedua paradigma tergantung pada kebutuhan program dan preferensi pribadi. Contoh masing - masing kode functional
+   programming dan object oriented progrmaming dapat dilihat pada file "ContohFunctionalProgramming.py" dan "ContohObjectOrientedProgramming.py"
 
 2. berikan apa saja contoh pengimplementasian dari oop!
   Berikut adalah beberapa contoh implementasi Object-Oriented Programming (OOP) pada kehidupan nyata:
@@ -49,5 +49,5 @@
            Kebanyakan Robotika menggunakan OOP untuk merepresentasikan berbagai elemen robot seperti sensor, motor, dan aktuator sebagai objek dengan sifat          
       dan metode uniknya masing - masing. Hal ini memudahkan programmer robotika untuk menyusun modul - modul yang digunakan si robot.      
       
-        Sangatlah wajar kalau OOP banyak diimplementasikan pada banyak program di kehidupan nyata. Dengan mengimplementasi OOP, programmer dan developer program dapat
-   membangun sistem dan aplikasi yang lebih kompleks, terstruktur, dan mudah dipelihara.
+        Sangatlah wajar kalau OOP banyak diimplementasikan pada banyak program di kehidupan nyata. Dengan mengimplementasi OOP, programmer
+   dan developer program dapat membangun sistem dan aplikasi yang lebih kompleks, terstruktur, dan mudah dipelihara.
