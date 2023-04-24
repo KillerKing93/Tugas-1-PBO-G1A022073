@@ -74,8 +74,8 @@
    |->  Sistem Pemesanan Tiket Online   |                                                                                                                             |
    |====================================|=============================================================================================================================|
    |                                                                                                                                                                  |
-   |   Sistem pemesanan tiket online seperti Tiket.com, Traveloka, dan lain-lain menggunakan OOP untuk merepresentasikan berbagai objek seperti jadwal penerbangan,   |
-   |    tempat duduk, dan harga tiket.                                                                                                                                |
+   |        Sistem pemesanan tiket online seperti Tiket.com, Traveloka, dan lain-lain menggunakan OOP untuk merepresentasikan berbagai objek seperti jadwal           |
+   |   penerbangan, tempat duduk, dan harga tiket.                                                                                                                    |
    |                                                                                                                                                                  |
    |==================================================================================================================================================================| 
    |->     Sistem Manajemen Proyek      |                                                                                                                             |
