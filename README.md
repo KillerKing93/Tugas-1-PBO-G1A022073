@@ -18,7 +18,7 @@ OOP memungkinkan pewarisan (inheritance) antar kelas, di mana kelas anak dapat m
 ### Keamanan dan kesalahan program
 Dalam FP, program cenderung lebih aman karena data bersifat immutable dan fungsi tidak memiliki efek samping yang tidak diinginkan. Di sisi lain, OOP    memungkinkan perubahan data yang tidak diinginkan dan metode yang salah dapat mempengaruhi objek lain dalam program.    
    
-Kesimpulannya, Functional Programming dan Object Oriented Programming memiliki pendekatan yang berbeda dalam membangun program, dan masing-masing memiliki kelebihan dan kelemahan. Pilihan antara kedua paradigma tergantung pada kebutuhan program dan preferensi pribadi. Contoh masing - masing kode functional programming dan object oriented progrmaming dapat dilihat pada file "ContohFunctionalProgramming.py" dan "ContohObjectOrientedProgramming.py"
+Kesimpulannya, Functional Programming dan Object Oriented Programming memiliki pendekatan yang berbeda dalam membangun program, dan masing-masing memiliki kelebihan dan kelemahan. Pilihan antara kedua paradigma tergantung pada kebutuhan program dan preferensi pribadi. Contoh masing - masing kode functional programming dan object oriented progrmaming dapat dilihat pada folder "ContohFunctionalProgramming" dan "ContohObjectOrientedProgramming"
 
 ## 2. berikan apa saja contoh pengimplementasian dari oop!
   Berikut adalah beberapa contoh implementasi Object-Oriented Programming (OOP) pada kehidupan nyata:
